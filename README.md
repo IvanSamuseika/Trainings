@@ -1,0 +1,2 @@
+# Trainings
+Java/Automation
